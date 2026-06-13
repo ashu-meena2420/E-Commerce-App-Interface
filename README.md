@@ -1,6 +1,6 @@
 # ShopEase – Modern E-Commerce Android App Interface
 
-ShopEase is an Android app I built during my internship at CODTECH
+## ShopEase is an Android app I built during my internship at CODTECH
 
 ## Intern Project Details
 * **INTERN ID:** CITS2358
